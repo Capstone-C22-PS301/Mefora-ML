@@ -1,0 +1,102 @@
+,User_Id,Disease,food_name,Rated,Liked,Searched,Purchased
+0,User_19,obesity cancer hypertension,sweet chilli almonds,1,0,0,0
+1,User_69,anemia kidney_disease goitre rickets pregnancy,chocolate nero cookies,0,1,0,0
+2,User_20,anemia kidney_disease goitre rickets pregnancy,cream of almond soup,1,0,0,1
+3,User_96,anemia kidney_disease goitre rickets pregnancy,broccoli and almond soup,0,0,1,1
+4,User_63,kidney_disease goitre hypertension,baked multigrain murukku,0,0,1,1
+5,User_63,kidney_disease goitre hypertension,apple rabdi,0,1,0,1
+6,User_91,cancer kidney_disease obesity hypertension anemia goitre heart_disease diabeties rickets pregnancy,vegetable som tam salad,0,1,0,1
+7,User_31,scurvy rickets eye_disease heart_disease,spinach and feta crepes,1,0,0,1
+8,User_25,goitre,couscous with ratatouille - tangy tomato sauce,0,0,1,0
+9,User_89,anemia kidney_disease goitre rickets pregnancy,green lentil dessert fudge,1,0,0,1
+10,User_29,diabeties hypertension,mixed berry &amp; banana smoothie,0,0,1,1
+11,User_37,anemia kidney_disease goitre rickets pregnancy,beetroot modak,1,0,0,1
+12,User_70,hypertension heart_disease,steam bunny chicken bao,0,0,1,0
+13,User_72,kidney_disease obesity hypertension goitre heart_disease scurvy pregnancy,meat lovers pizza,1,0,0,1
+14,User_25,goitre,belgian pork chop,1,0,0,1
+15,User_49,obesity diabeties goitre hypertension,christmas chocolate fudge cookies,0,1,0,0
+16,User_94,anemia kidney_disease goitre rickets pregnancy,japanese curry arancini with  barley salsa,0,0,1,0
+17,User_26,hypertension,chocolate appo,1,0,0,1
+18,User_81,obesity eye_disease heart_disease,baked namakpara with roasted almond dip,0,0,1,1
+19,User_28,hypertension obesity anemia goitre heart_disease diabeties rickets pregnancy,grilled almond barfi (sugar free),0,1,0,1
+20,User_63,kidney_disease goitre hypertension,baked shankarpali recipe,0,1,0,1
+21,User_74,hypertension heart_disease,fish with jamun sauce,0,1,0,1
+22,User_46,anemia kidney_disease goitre rickets pregnancy,dahi lasooni chicken,0,0,1,1
+23,User_70,hypertension heart_disease,pesto fish kebabs,0,0,1,1
+24,User_55,anemia kidney_disease goitre rickets pregnancy,betel nut popsicle,0,0,1,1
+25,User_36,hypertension,moong dal kiwi coconut soup,0,1,0,1
+26,User_82,kidney_disease obesity goitre scurvy pregnancy,shepherds salad (tamatar-kheera salaad),0,1,0,1
+27,User_91,cancer kidney_disease obesity hypertension anemia goitre heart_disease diabeties rickets pregnancy,carrot ginger soup,1,0,0,1
+28,User_97,goitre,hot chocolate,0,0,1,1
+29,User_48,hypertension heart_disease,slow cooked spiced sangria,1,0,0,1
+30,User_25,goitre,japanese curry arancini with  barley salsa,1,0,0,1
+31,User_29,diabeties hypertension,slow cooked spiced sangria,1,1,0,1
+32,User_82,kidney_disease obesity goitre scurvy pregnancy,lamb and chargrilled bell pepper soup,1,0,0,1
+33,User_14,kidney_disease goitre hypertension,vegetable som tam salad,1,0,1,0
+34,User_97,goitre,roast turkey with cranberry sauce,,,,
+35,User_100,kidney_disease hypertension anemia goitre heart_disease diabeties scurvy pregnancy,vegetable som tam salad,,,,
+36,User_97,goitre,belgian pork chop,,,,
+37,User_19,obesity cancer hypertension,sweet chilli almonds,,,,
+38,User_19,obesity cancer hypertension,sweet chilli almonds,,,,
+39,User_19,obesity cancer hypertension,cajun spiced turkey wrapped with bacon,,,,
+40,User_20,anemia kidney_disease goitre rickets pregnancy,peri peri chicken satay,,,,
+41,User_20,anemia kidney_disease goitre rickets pregnancy,andhra crab meat masala,,,,
+42,User_1,anemia kidney_disease goitre rickets pregnancy,green asparagus risotto,,,,
+43,User_1,anemia kidney_disease goitre rickets pregnancy,zucchini methi pulao,,,,
+44,User_2,goitre,lemon rice,,,,
+45,User_2,goitre,filo pizza,,,,
+46,User_2,goitre,hawaiin papaya salad,,,,
+47,User_3,cancer hypertension goitre heart_disease scurvy,cream of almond soup,,,,
+48,User_3,cancer hypertension goitre heart_disease scurvy,almond and raw banana galawat,,,,
+49,User_6,goitre,baked multigrain murukku,,,,
+50,User_6,goitre,summer squash salad,,,,
+51,User_6,goitre,baked namak para,,,,
+52,User_5,anemia kidney_disease goitre rickets pregnancy,chicken minced salad,,,,
+53,User_5,anemia kidney_disease goitre rickets pregnancy,riceless chicken biryani,,,,
+54,User_5,anemia kidney_disease goitre rickets pregnancy,seared salmon in tabasco butter,,,,
+55,User_23,hypertension,prawn and litchi salad,,,,
+56,User_23,hypertension,green cucumber shots,,,,
+57,User_23,hypertension,oyster lamb,,,,
+58,User_52,cancer,andhra pan fried pomfret,,,,
+59,User_52,cancer,cajun spiced turkey wrapped with bacon,,,,
+60,User_52,cancer,saewoo bokumbop (shrimp fried rice),,,,
+61,User_11,hypertension,beetroot modak,,,,
+62,User_11,hypertension,egg paratha,,,,
+63,User_11,hypertension,banana chips,,,,
+64,User_2,goitre,hawaiin papaya salad,,,,
+65,User_2,goitre,filo pizza,,,,
+66,User_36,hypertension,almond and cranberry poha,0,1,1,0
+67,User_7,cancer anemia obesity kidney_disease pregnancy,fried rice with soya chunks,1,1,1,0
+68,User_88,goitre kidney_disease,spinach and feta crepes,0,0,1,0
+69,User_18,goitre hypertension,grilled almond barfi (sugar free),0,0,1,1
+70,User_45,cancer anemia obesity kidney_disease goitre pregnancy,fried rice with soya chunks,0,1,1,0
+71,User_99,goitre,tricolour pizza,1,0,1,1
+72,User_75,cancer kidney_disease obesity anemia diabeties scurvy pregnancy,andhra crab meat masala,0,1,1,0
+73,User_5,anemia kidney_disease goitre rickets pregnancy,meat lovers pizza,1,1,1,1
+74,User_70,hypertension heart_disease,chocolate samosa,1,0,0,1
+75,User_67,obesity diabeties goitre anemia,summer squash salad,0,1,0,0
+76,User_1,anemia kidney_disease goitre rickets pregnancy,spicy chicken masala,0,1,1,1
+77,User_88,goitre kidney_disease,gluten-free christmas cake,0,0,1,1
+78,User_29,diabeties hypertension,mixed berry &amp; banana smoothie,1,0,0,1
+79,User_77,kidney_disease hypertension goitre heart_disease scurvy pregnancy,garlic soya chicken,0,0,1,0
+80,User_64,goitre hypertension,baked almond kofta,0,1,0,0
+81,User_25,goitre,roast turkey with cranberry sauce,0,0,1,1
+82,User_23,hypertension,banana walnut smoothie,1,1,1,1
+83,User_50,diabeties goitre,baked shankarpali recipe,0,1,0,1
+84,User_11,hypertension,almond and cranberry poha,,,,
+85,User_68,goitre,baked namak para,,,,
+86,User_83,hypertension,almond and cranberry poha,,,,
+87,User_8,anemia kidney_disease goitre rickets diabeties pregnancy,spicy chicken masala,,,,
+88,User_43,diabeties hypertension,mixed berry &amp; banana smoothie,,,,
+89,User_40,kidney_disease hypertension anemia goitre rickets scurvy pregnancy,steamed chicken roulade,,,,
+90,User_97,goitre,roast turkey with cranberry sauce,,,,
+91,User_17,cancer kidney_disease obesity anemia heart_disease diabeties,fried rice with soya chunks,,,,
+92,User_91,cancer kidney_disease obesity hypertension anemia goitre heart_disease diabeties rickets pregnancy,malabari fish curry,,,,
+93,User_80,hypertension,banana walnut smoothie,,,,
+94,User_42,pregnancy anemia kidney_disease,filter coffee,,,,
+95,User_58,cancer kidney_disease obesity hypertension anemia goitre heart_disease diabeties rickets pregnancy,andhra crab meat masala,,,,
+96,User_99,goitre,bengali lamb curry,,,,
+97,User_61,obesity kidney_disease scurvy heart_disease,vegetable biryani,,,,
+98,User_69,anemia kidney_disease goitre rickets pregnancy,spicy chicken curry,,,,
+99,User_49,obesity diabeties goitre hypertension,goan prawn curry &amp; baked rice canapes,,,,
+100,User_91,cancer kidney_disease obesity hypertension anemia goitre heart_disease diabeties rickets pregnancy,bihari fish curry,,,,

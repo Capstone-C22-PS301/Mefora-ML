@@ -1,0 +1,31 @@
+,User_Id,Disease,food_name,Rated,Liked,Searched,Purchased
+0,User_19,obesity cancer hypertension,sweet chilli almonds,1,0,0,0
+1,User_69,anemia kidney_disease goitre rickets pregnancy,chocolate nero cookies,0,1,0,0
+2,User_20,anemia kidney_disease goitre rickets pregnancy,cream of almond soup,1,0,0,1
+3,User_96,anemia kidney_disease goitre rickets pregnancy,broccoli and almond soup,0,0,1,1
+4,User_63,kidney_disease goitre hypertension,baked multigrain murukku,0,0,1,1
+5,User_63,kidney_disease goitre hypertension,apple rabdi,0,1,0,1
+6,User_91,cancer kidney_disease obesity hypertension anemia goitre heart_disease diabeties rickets pregnancy,vegetable som tam salad,0,1,0,1
+7,User_31,scurvy rickets eye_disease heart_disease,spinach and feta crepes,1,0,0,1
+8,User_25,goitre,couscous with ratatouille - tangy tomato sauce,0,0,1,0
+9,User_89,anemia kidney_disease goitre rickets pregnancy,green lentil dessert fudge,1,0,0,1
+10,User_29,diabeties hypertension,mixed berry &amp; banana smoothie,0,0,1,1
+11,User_37,anemia kidney_disease goitre rickets pregnancy,beetroot modak,1,0,0,1
+12,User_70,hypertension heart_disease,steam bunny chicken bao,0,0,1,0
+13,User_72,kidney_disease obesity hypertension goitre heart_disease scurvy pregnancy,meat lovers pizza,1,0,0,1
+14,User_25,goitre,belgian pork chop,1,0,0,1
+15,User_49,obesity diabeties goitre hypertension,christmas chocolate fudge cookies,0,1,0,0
+16,User_94,anemia kidney_disease goitre rickets pregnancy,japanese curry arancini with  barley salsa,0,0,1,0
+17,User_26,hypertension,chocolate appo,1,0,0,1
+18,User_81,obesity eye_disease heart_disease,baked namakpara with roasted almond dip,0,0,1,1
+19,User_28,hypertension obesity anemia goitre heart_disease diabeties rickets pregnancy,grilled almond barfi (sugar free),0,1,0,1
+20,User_63,kidney_disease goitre hypertension,baked shankarpali recipe,0,1,0,1
+21,User_74,hypertension heart_disease,fish with jamun sauce,0,1,0,1
+22,User_46,anemia kidney_disease goitre rickets pregnancy,dahi lasooni chicken,0,0,1,1
+23,User_70,hypertension heart_disease,pesto fish kebabs,0,0,1,1
+24,User_55,anemia kidney_disease goitre rickets pregnancy,betel nut popsicle,0,0,1,1
+25,User_36,hypertension,moong dal kiwi coconut soup,0,1,0,1
+26,User_82,kidney_disease obesity goitre scurvy pregnancy,shepherds salad (tamatar-kheera salaad),0,1,0,1
+27,User_91,cancer kidney_disease obesity hypertension anemia goitre heart_disease diabeties rickets pregnancy,carrot ginger soup,1,0,0,1
+28,User_97,goitre,hot chocolate,0,0,1,1
+29,User_48,hypertension heart_disease,slow cooked spiced sangria,1,0,0,1
